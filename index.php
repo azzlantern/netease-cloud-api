@@ -9,8 +9,7 @@ class API{
     protected $_PUBKEY='010001';
     protected $_VI='0102030405060708';
     protected $_USERAGENT='Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.157 Safari/537.36';
-    protected $_COOKIE='os=ios; osver=Microsoft-Windows-10-Professional-build-10586-64bit; appver=8.7.01; channel=netease; __remember_me=true;';
-    protected $_REFERER='http://music.163.com/';
+   protected $_COOKIE='os=ios; osver=Microsoft-Windows-10-Professional-build-10586-64bit; appver=8.6.9; channel=netease; __remember_me=true;';
     // use static secretKey, without RSA algorithm
     protected $_secretKey='TA3YiYCfY2dDJQgg';
     protected $_encSecKey='84ca47bca10bad09a6b04c5c927ef077d9b9f1e37098aa3eac6ea70eb59df0aa28b691b7e75e4f1f9831754919ea784c8f74fbfadf2898b0be17849fd656060162857830e241aba44991601f137624094c114ea8d17bce815b0cd4e5b8e2fbaba978c6d1d14dc3d1faf852bdd28818031ccdaaa13a6018e1024e2aae98844210';
